@@ -57,7 +57,6 @@ Repositório dedicado aos meus estudos de:
 - ⚛️ React
 - 🌐 APIs REST
 - 🖥️ Node.js
-- 🔐 Fundamentos de Cibersegurança
 - 📱 Responsividade e UI/UX
 
 ---
